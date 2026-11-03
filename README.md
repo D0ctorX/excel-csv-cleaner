@@ -17,3 +17,6 @@
 * 📅 **[Fix & Standardize Date Formats in Excel (YYYY-MM-DD)](https://tidify-app.netlify.app/fix-date-format-excel.html?utm_source=github)** — Unify US, European, and Excel serial dates automatically.
 * 🇫🇷 **[Nettoyer un Fichier Excel / CSV en Ligne (Gratuit)](https://tidify-app.netlify.app/nettoyer-fichier-excel.html?utm_source=github)** — Outil gratuit de nettoyage et dédoublonnage Excel en français.
 * 🇫🇷 **[Supprimer les Doublons Excel & CSV sans Formule](https://tidify-app.netlify.app/supprimer-doublons-excel.html?utm_source=github)** — Éliminez les lignes en double en 1 clic.
+
+---
+🚀 **Official Product Hunt Page:** [Tidify on Product Hunt](https://www.producthunt.com/products/tidify-2)
