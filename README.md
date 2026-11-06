@@ -20,3 +20,25 @@
 
 ---
 🚀 **Official Product Hunt Page:** [Tidify on Product Hunt](https://www.producthunt.com/products/tidify-2)
+
+## 🌍 Direct Specialized Tools (5 Languages — 100% Client-Side)
+
+### 🇫🇷 Outils Excel & CSV en Français
+- [Nettoyer un fichier Excel & CSV en ligne gratuit](https://tidify-app.netlify.app/nettoyer-fichier-excel.html)
+- [Supprimer les doublons Excel & CSV sans formule](https://tidify-app.netlify.app/supprimer-doublons-excel.html)
+- [Supprimer les espaces inutiles et insécables dans Excel (sans SUPPRESPACE)](https://tidify-app.netlify.app/supprimer-espaces-excel.html)
+- [Convertir et nettoyer un fichier CSV en Excel (.xlsx) propre](https://tidify-app.netlify.app/convertir-csv-en-excel.html)
+- [Nettoyer un export CSV CRM (HubSpot, Salesforce, Pipedrive, Brevo)](https://tidify-app.netlify.app/nettoyer-export-crm-hubspot-salesforce.html)
+
+### 🇬🇧 English Excel & CSV Cleaners
+- [Free Online Excel (.xlsx) Cleaner](https://tidify-app.netlify.app/excel-cleaner.html)
+- [Free Online CSV Cleaner & Validator](https://tidify-app.netlify.app/csv-cleaner.html)
+- [Remove Duplicate Rows in Excel & CSV Online](https://tidify-app.netlify.app/remove-duplicates-excel.html)
+- [Fix Mixed Date Formats in Excel to ISO YYYY-MM-DD](https://tidify-app.netlify.app/fix-date-format-excel.html)
+- [Trim Whitespace & Non-Breaking Spaces in Excel & CSV](https://tidify-app.netlify.app/trim-whitespace-excel-csv.html)
+- [Clean Messy CRM Export CSV (HubSpot, Salesforce, Contacts)](https://tidify-app.netlify.app/clean-crm-export-csv.html)
+
+### 🇪🇸 🇩🇪 🇵🇹 International Tools
+- 🇪🇸 [Limpiar Archivos Excel y CSV Online Gratis (Eliminar Duplicados y Formatear Fechas)](https://tidify-app.netlify.app/limpiar-archivo-excel-csv.html)
+- 🇩🇪 [Excel & CSV Dateien Online Bereinigen (Duplikate Entfernen & Datumsformat Korrigieren)](https://tidify-app.netlify.app/excel-csv-daten-bereinigen.html)
+- 🇵🇹 [Limpar Planilha Excel e CSV Online Grátis (Remover Duplicados e Padronizar Datas)](https://tidify-app.netlify.app/limpar-planilha-excel-csv.html)
